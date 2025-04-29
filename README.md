@@ -52,6 +52,13 @@ This dashboard allows stakeholders to:
 
 </div>
 
+## 📂 Quick Access to Key Files
+
+- 📓 [Final Jupyter Notebook (`phase1_project.ipynb`)](https://github.com/TonieMuthee/phase_1_data_science_project/blob/main/Notebook_phase1_project.ipynb)
+- 📄 [Notebook PDF Export (`phase1_project.pdf`)](notebooks/phase1_project.pdf)
+- 🎥 [Non-Technical Presentation (`presentation.pdf`)](https://github.com/TonieMuthee/phase_1_data_science_project/blob/main/Presentation_Identifying_Lowest_Risk_Aircraft_for_Investment.pdf)
+- 📊 [Tableau Dashboard (Interactive)](https://public.tableau.com/app/profile/anthony.njiru/viz/Phase1_Aviation_Dashboard/AviationRiskAnalysisDashboard?publish=yes)
+
 ## How to Run
 1. Clone this repository.
 2. Install requirements:  
